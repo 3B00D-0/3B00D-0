@@ -21,7 +21,7 @@ I am a STEM Education university student and a STEM school teacher based in Egyp
 ---
 
 ### 📫 Connect with Me
-* [Email](abdosayed.msm@gmail.com)
+* [Email](mailto:abdosayed.msm@gmail.com)
 
 <!--
 **3B00D-0/3B00D-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
