@@ -1,7 +1,7 @@
 # Hi, I'm Abdelrahman Mohamed Sayed! 👋
 
 ### 👨‍🏫 STEM Educator & Developer
-I am a STEM Education university student and a STEM school teacher based in Egypt. I am passionate about bridging the gap between mathematics, engineering, and technology to solve real-world problems.
+I am a STEM Education university student from Egypt. I am passionate about bridging the gap between mathematics, engineering, and technology to solve real-world problems.
 
 ---
 
